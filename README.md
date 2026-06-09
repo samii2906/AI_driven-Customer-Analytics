@@ -1,5 +1,7 @@
 # PulseIQ — AI-Driven Customer Analytics Platform
 
+Live demo : https://ai-driven-customer-analytics.onrender.com/
+
 ## Quick Start
 ```bash
 python run.py
